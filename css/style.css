@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	border: none;
+	outline: none;
+}
+header{
+    background-color: #FBCB84
+    ;
+}
+footer{
+    background-color: #EC7542
+    ;
+
+}
+.footer menu{
+    background-color: #FBCB84
+    ;
+}
+.navbar{
+    background-color: #FBCB84
+    ;
+    
+}
+
+.fondo-menu{
+    background-image:url(../asset/img/logo/restaurant-fondo.png);
+}
+.fondo-inicio{
+    background-image: url(../asset/img/logo/Inicio.png);
+    height: 900%;
+    width: 900%;
+}
+/* imagen nosotros*/
+.imagen-nosotros{
+    height: 1000px;
+    width: 300px;
+    
+    
+}
+.foto-contacto{
+    background-image: url(../asset/img/logo/foto-contacto.png);
+    padding: 500px;
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
